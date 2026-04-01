@@ -1,0 +1,65 @@
+1. Lei de Hick (Hick-Hyman)
+
+O que é:
+Quanto mais opções uma pessoa tem, mais tempo ela leva para decidir.
+
+Na prática:
+Evitar excesso de escolhas.
+
+Aplicação:
+Se houver muitas opções em um menu, organize ou esconda as menos importantes. Isso ajuda o usuário a decidir mais rápido.
+
+2. Lei de Fitts
+
+O que é:
+O tempo para clicar em algo depende da distância e do tamanho do botão.
+
+Na prática:
+Botões importantes devem ser fáceis de alcançar.
+
+Aplicação:
+Use botões maiores e bem posicionados, principalmente para ações principais como “Comprar”.
+
+3. Lei do Poder da Prática
+
+O que é:
+Quanto mais uma pessoa repete uma ação, mais rápida ela se torna.
+
+Na prática:
+Manter consistência no sistema.
+
+Aplicação:
+Use padrões conhecidos (ex: ícone de engrenagem para configurações), assim o usuário aprende mais rápido e não precisa reaprender tudo.
+
+4. Princípio de Pareto (80/20)
+
+O que é:
+80% dos resultados vêm de 20% das ações.
+
+Na prática:
+A maioria dos usuários usa poucas funcionalidades.
+
+Aplicação:
+Destaque as funções mais importantes e mais usadas. Evite poluir a interface com funções raras.
+
+5. Lei de Zipf
+
+O que é:
+Itens mais comuns são usados com muito mais frequência.
+
+Na prática:
+Priorizar o que é mais utilizado.
+
+Aplicação:
+Em buscas e formulários, mostre primeiro as opções mais populares.
+
+6. Padrão de Leitura em F
+
+O que é:
+Usuários não leem tudo; eles escaneiam a tela em formato de “F”.
+
+Na prática:
+Organizar bem o conteúdo.
+
+Aplicação:
+Coloque as informações mais importantes no topo e à esquerda da tela.
